@@ -37,3 +37,14 @@
   margin:0px;
   color: #0f0f0f;
 }
+
+.navbar{
+  background-color: #6b3eb0;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
